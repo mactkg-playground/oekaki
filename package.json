@@ -1,0 +1,19 @@
+{
+  "name": "oekaki",
+  "version": "1.0.0",
+  "description": "tiny oekaki app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mactkg-playground/oekaki.git"
+  },
+  "author": "mactkg <mactkg@gmail.com> (http://makerbox.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mactkg-playground/oekaki/issues"
+  },
+  "homepage": "https://github.com/mactkg-playground/oekaki#readme"
+}
